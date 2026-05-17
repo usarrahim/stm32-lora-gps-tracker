@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "GoraMi_custom") (type "KiCad") (uri "${KIPRJMOD}/CompLib/footprints/GoraMi_custom.pretty") (options "") (descr ""))
+)

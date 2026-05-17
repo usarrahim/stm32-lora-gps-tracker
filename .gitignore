@@ -1,0 +1,21 @@
+# KiCad yedek ve geçici dosyaları
+GoraMi-backups/
+.history/
+*.bak
+*-bak
+*_bak
+*~
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.fp-info-cache
+
+# Fabrika üretim çıktıları (İleride üretirsen git'e girmesin)
+*.gbr
+*.drl
+*.pos
+*.rpt
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
