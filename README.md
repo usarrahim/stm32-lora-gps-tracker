@@ -126,8 +126,6 @@ The PCB was developed with **[KiCad 10.0.1](https://www.kicad.org/)**.
 - [x] Route signal and power traces
 - [x] Generate manufacturing files (Gerber / BOM / Pick & Place)
 - [x] Initial firmware: GPS NMEA, MPU-6050, E22 LoRa telemetry
-- [ ] Field testing on assembled boards
-- [ ] Optional: gyro data, low-power modes, receiver-side tooling
 
 ## License
 
