@@ -19,3 +19,18 @@ GoraMi-backups/
 # İşletim sistemi dosyaları
 .DS_Store
 Thumbs.db
+
+# STM32CubeIDE / CubeMX
+software/**/Debug/
+software/**/Release/
+software/**/MXTmpFiles/
+*.launch
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
